@@ -1,0 +1,10 @@
+D:\DEV\C#\Games\CloudJump\CloudJump\obj\Debug\CloudJump.Form1.resources
+D:\DEV\C#\Games\CloudJump\CloudJump\obj\Debug\CloudJump.Properties.Resources.resources
+D:\DEV\C#\Games\CloudJump\CloudJump\obj\Debug\CloudJump.csproj.GenerateResource.cache
+D:\DEV\C#\Games\CloudJump\CloudJump\obj\Debug\CloudJump.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Games\CloudJump\CloudJump\bin\Debug\CloudJump.exe.config
+D:\DEV\C#\Games\CloudJump\CloudJump\bin\Debug\CloudJump.exe
+D:\DEV\C#\Games\CloudJump\CloudJump\bin\Debug\CloudJump.pdb
+D:\DEV\C#\Games\CloudJump\CloudJump\obj\Debug\CloudJump.exe
+D:\DEV\C#\Games\CloudJump\CloudJump\obj\Debug\CloudJump.pdb
+D:\DEV\C#\Games\CloudJump\CloudJump\obj\Debug\CloudJump.csprojAssemblyReference.cache
