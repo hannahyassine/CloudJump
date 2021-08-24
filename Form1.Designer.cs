@@ -131,9 +131,9 @@
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox4.BackgroundImage = global::CloudJump.Properties.Resources.cloud2;
-            this.pictureBox4.Location = new System.Drawing.Point(258, 209);
+            this.pictureBox4.Location = new System.Drawing.Point(308, 204);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(203, 62);
+            this.pictureBox4.Size = new System.Drawing.Size(102, 62);
             this.pictureBox4.TabIndex = 5;
             this.pictureBox4.TabStop = false;
             this.pictureBox4.Tag = "platform";
@@ -197,7 +197,7 @@
             // 
             this.door.BackColor = System.Drawing.Color.Transparent;
             this.door.BackgroundImage = global::CloudJump.Properties.Resources.rainbow;
-            this.door.Location = new System.Drawing.Point(38, 76);
+            this.door.Location = new System.Drawing.Point(8, 59);
             this.door.Name = "door";
             this.door.Size = new System.Drawing.Size(72, 53);
             this.door.TabIndex = 19;

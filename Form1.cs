@@ -9,13 +9,15 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace CloudJump
-{
+{ // add levels of difficulty
+  // - increase gravity effect
+  // - introduce a poisoness star - loose game if intersect with it
     public partial class Form1 : Form
     {
         bool goleft, goright; // determine the direction of player
-        bool jumping;
+        bool jumping; // determin if player is jumping or not
 
-        int jumpSpeed = 5;
+        int jumpSpeed = 5; // we set this to five
         int force = 2;
         int score = 0;
 
@@ -135,7 +137,7 @@ namespace CloudJump
                 if (player.Bounds.IntersectsWith(door.Bounds))
                 {
                     Timer1.Stop();
-                    MessageBox.Show("YOU WON!   Stars: " + score); ;
+                    MessageBox.Show("WELLDONE!   Stars: " + score); ;
             }
         }
 
